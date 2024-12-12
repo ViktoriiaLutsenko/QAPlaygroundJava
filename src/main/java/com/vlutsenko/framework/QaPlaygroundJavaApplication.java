@@ -1,4 +1,4 @@
-package com.vlutsenko.qaplaygroundjava;
+package com.vlutsenko.framework;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
